@@ -79,6 +79,17 @@ This project is provided under the MIT License — add a `LICENSE` file if you w
 
 If you want help extending this project (adding a product API, shopping cart, or deployment), open an issue or email the project owner.
 
----
-
 Generated: README updated to document the Chair_Store static website.
+
+## View on GitHub Pages
+
+This site can be served using GitHub Pages. If you enable GitHub Pages for this repository (Settings → Pages → Source: `main` branch / `root`), the site will be available at:
+
+https://Abdogoda.github.io/Chair_Store/
+
+Notes:
+
+- It may take a minute for the site to become available after enabling Pages.
+- If you prefer to publish from a `docs/` folder, choose that folder as the Pages source instead.
+
+If you want, I can add a GitHub Action to automatically build and deploy (useful if we add a build step). Otherwise you can enable Pages from the repository settings and open the URL above to view the live site.
