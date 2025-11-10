@@ -1,0 +1,2 @@
+hi there from cat editor
+this is the second line using echo
