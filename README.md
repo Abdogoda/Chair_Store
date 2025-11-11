@@ -75,8 +75,6 @@ If you want me to add a build step (Sass, bundler, or image optimization), CI co
 
 If you want help extending this project (adding a product API, shopping cart, or deployment), open an issue or email the project owner.
 
-Generated: README updated to document the Chair_Store static website.
-
 ## View on GitHub Pages
 
 This site can be served using GitHub Pages. If you enable GitHub Pages for this repository (Settings → Pages → Source: `main` branch / `root`), the site will be available at:
