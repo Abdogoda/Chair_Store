@@ -71,10 +71,6 @@ If you want me to add a build step (Sass, bundler, or image optimization), CI co
 - Add a simple test step (link checker) to CI to ensure pages and assets return 200.
 - Add deployment instructions for GitHub Pages or Netlify if you plan to host the site.
 
-## License
-
-This project is provided under the MIT License — add a `LICENSE` file if you want a formal license file in the repo.
-
 ## Contact
 
 If you want help extending this project (adding a product API, shopping cart, or deployment), open an issue or email the project owner.
